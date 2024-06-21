@@ -1,1 +1,1 @@
-# xss
+alert(document.domain);
